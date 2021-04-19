@@ -1,0 +1,10 @@
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\bin\Debug\seerver.exe.config
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\bin\Debug\seerver.exe
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\bin\Debug\seerver.pdb
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.Form1.resources
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.Properties.Resources.resources
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.csproj.GenerateResource.cache
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.exe
+C:\Users\Yasir\Desktop\Dersler\İş\seerver\obj\Debug\seerver.pdb

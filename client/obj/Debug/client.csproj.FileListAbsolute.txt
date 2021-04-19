@@ -1,0 +1,10 @@
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.Form1.resources
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\Dersler\İş\client\bin\Debug\client.exe.config
+C:\Users\Yasir\Desktop\Dersler\İş\client\bin\Debug\client.exe
+C:\Users\Yasir\Desktop\Dersler\İş\client\bin\Debug\client.pdb
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.exe
+C:\Users\Yasir\Desktop\Dersler\İş\client\obj\Debug\client.pdb
